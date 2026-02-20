@@ -1,0 +1,11 @@
+export { default as Navbar } from './Header';
+export { default as Button } from './Button';
+export { default as Heading } from './Heading';
+export { default as Hero } from './Hero';
+export { default as LogoTicker } from './LogoTicker';
+export { default as Servicos } from './Servicos';
+export { default as PorqueNos } from './PorqueNos';
+export { default as MapaEContacto } from './MapaEContacto';
+export { default as Footer } from './Footer';
+export { default as Testimonials } from './Testimonials';
+export { default as Contactar } from './Contactar';

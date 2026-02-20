@@ -1,0 +1,11 @@
+export { default as logo } from './logosaas.png';
+export { default as ArrowRight } from './arrow-right.svg';
+export { default as servidores } from "./servidores.png";
+export { default as wiriless } from "./wiriless.png";
+export { default as cibersegurança } from "./cibersegurança.png";
+export { default as redes } from "./redes.png";
+export { default as suporte } from "./suporte.png";
+export { default as cctv } from "./cctv.png";
+export { default as check } from './check.svg';
+export { default as checkwhite } from './checkwhite.svg';
+export { default as arrowRightWhite } from './arrow-right-white.svg';
