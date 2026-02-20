@@ -1,5 +1,6 @@
-import { servidores, wiriless, cibersegurança, redes, suporte, cctv} from "@/public";
 
+
+import { servidores, wiriless, ciberseguranca, redes, suporte, cctv} from "@/public";
 /**
  * An array of navigation items, each with an id, title, and href.
  * These items are used to build the main navigation menu of the application.
@@ -55,7 +56,7 @@ export const logoMarqueeItems = [
    },
    {
       id: 3,
-      src: cibersegurança
+      src: ciberseguranca
    },
    {
       id: 4,
