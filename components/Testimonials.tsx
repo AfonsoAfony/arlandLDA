@@ -81,10 +81,10 @@ const [comentarios, setComentarios] = useState<any[]>([]);
 											height={60}
 										/>
 										<div className="flex flex-col">
-											<h1 className="text-[#010D3E] font-dmSans text-lg font-normal leading-tight">
+											<h1 className="text-[#010D3E] font-dmSans xm:text-sm sm:text-md text-lg font-normal leading-tight">
 												{comentario.nome}
 											</h1>
-											<p className="text-[#010D3E] font-dmSans text-lg font-normal leading-tight">
+											<p className="text-[#010D3E] font-dmSans xm:text-sm sm:text-md text-lg font-normal leading-tight">
 												{comentario.email}
 											</p>
 										</div>

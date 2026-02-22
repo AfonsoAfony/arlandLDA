@@ -62,7 +62,9 @@ export default function LeftSideHome() {
 					</div>
 				</div>
 			</motion.div>
-			<AnimatePresence mode="wait">{isActive && <Navbar />}</AnimatePresence>
+			<AnimatePresence mode="wait">
+				{isActive && <Navbar setIsActive={setIsActive} />}
+			</AnimatePresence>
 		</>
 	);
 }
