@@ -170,9 +170,10 @@ const phares3 = ["Proteção digital e gestão"];
 									id="image_slide1"
 									src="/server2.png"
 									alt="server"
-									width={800}
-									height={400}
-									className=" hide w-[70%] xm:w-full sm:w-full h-auto object-cover"
+									width={500}
+									height={500}
+									className=" hide xm:w-[290px] xm:h-[290px] sm:w-[340px] sm:h-[340px] object-cover"
+
 								/>
 								
 							</motion.div>
@@ -186,9 +187,10 @@ const phares3 = ["Proteção digital e gestão"];
 								style={{ y: mq }}>
 								<Image
 									src="/wifi2.png"
-									alt="noodle-hero-img"
+									alt="wifi-img"
 									width={200}
 									height={200}
+									className=" md:w-[140px] md:h-[140px] md:mr-8 lg:mr-12"
 								/>
 							</motion.div>
 							<motion.div
@@ -200,9 +202,10 @@ const phares3 = ["Proteção digital e gestão"];
 								style={{ y: cq }}>
 								<Image
 									src="/camara.png"
-									alt="cylinder-hero-img"
+									alt="camara-img"
 									width={200}
 									height={200}
+									className="lg:w-[170px] lg:h-[170px] md:w-[140px] md:h-[140px] "
 								/>
 							</motion.div>
 						
@@ -292,9 +295,10 @@ const phares3 = ["Proteção digital e gestão"];
 									
 									src="/man5.png"
 									alt="cog-hero-img"
-									width={400}
+									width={20}
 									height={200}
-									className=" w-[70%] xm:w-[280px] sm:w-[350px] h-auto object-cover"
+									className="  xm:w-[200px] xm:h-[290px] sm:w-[300px] sm:h-[390px] object-cover"
+
 								/>
 							</motion.div>
 							</div>
