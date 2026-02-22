@@ -198,7 +198,7 @@ export default function Servicos() {
                                             
                                             src="/cameraman.jpg"
                                             alt="CCTV preview"
-                                            className="h-[350px] md:h-[500px] lg:h-[520px] xl:h-[600px] w-[300px] md:w-[500px] lg:w-[520px] xl:w-[600px] object-cover transition-transform duration-300 scale-120 lg:scale-125 hover:scale-125 transicao rounded-3xl"
+                                            className="h-[300px] w-[300px] md:h-[500px] md:w-[500px] lg:h-[520px] lg:w-[520px] xl:h-[600px] xl:w-[600px] object-cover transition-transform duration-300 scale-120 sm:scale-125 xs:scale-125 lg:scale-125 hover:scale-125 transicao rounded-3xl"
                                             />
                               </div>
                             
@@ -236,7 +236,7 @@ export default function Servicos() {
             <img
                 src="/network.jpg"
                 alt="Redes preview"
-                className="h-[350px] md:h-[500px] lg:h-[520px] xl:h-[600px] w-[300px] md:w-[500px] lg:w-[520px] xl:w-[600px] object-cover transition-transform duration-300 scale-120 lg:scale-125 hover:scale-125 transicao rounded-3xl"
+                className="h-[300px] w-[300px] md:h-[500px] md:w-[500px] lg:h-[520px] lg:w-[520px] xl:h-[600px] xl:w-[600px] object-cover transition-transform duration-300 sm:scale-125 xs:scale-125 scale-120 lg:scale-125 hover:scale-125 transicao rounded-3xl"
             />
         </div>
     </div>
