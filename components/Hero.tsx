@@ -172,7 +172,7 @@ const phares3 = ["Proteção digital e gestão"];
 									alt="server"
 									width={500}
 									height={500}
-									className=" hide xm:w-[290px] xm:h-[290px] sm:w-[340px] sm:h-[340px] object-cover"
+									className=" hide xm:w-[260px] xm:h-[260px] sm:w-[320px] sm:h-[320px] object-cover"
 
 								/>
 								
@@ -295,7 +295,7 @@ const phares3 = ["Proteção digital e gestão"];
 									
 									src="/man5.png"
 									alt="cog-hero-img"
-									width={20}
+									width={200}
 									height={200}
 									className="  xm:w-[200px] xm:h-[290px] sm:w-[300px] sm:h-[390px] object-cover"
 
@@ -378,7 +378,7 @@ const phares3 = ["Proteção digital e gestão"];
 									alt="cog-hero-img"
 									width={800}
 									height={400}
-									className="hide w-[100%] xm:w-full sm:w-full h-auto object-cover"
+									className="xm:mr-4 sm:mr-4  hide w-[100%] xm:w-full sm:w-full h-auto object-cover"
 								/>
 							</motion.div>
 							
