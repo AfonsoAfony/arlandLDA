@@ -293,7 +293,7 @@ const phares3 = ["Proteção digital e gestão"];
 								className="flex md:hidden lg:hidden xl:hidden  w-full items-center justify-center">
 								<Image
 									
-									src="/man5.png"
+									src="/man8.png"
 									alt="cog-hero-img"
 									width={200}
 									height={200}
@@ -378,7 +378,7 @@ const phares3 = ["Proteção digital e gestão"];
 									alt="cog-hero-img"
 									width={800}
 									height={400}
-									className="xm:mr-8 sm:mr-12  hide w-[100%] xm:w-full sm:w-full h-auto object-cover"
+									className="xm:mr-8 sm:mr-12 hide w-[100%] xm:w-full sm:w-full h-auto object-cover"
 								/>
 							</motion.div>
 							

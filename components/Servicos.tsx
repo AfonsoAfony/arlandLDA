@@ -193,17 +193,15 @@ export default function Servicos() {
                         </div>
                         <div className="w-full  lg:w-2/3 xl:w-[42%] flex flex-col justify-end overflow-hidden rounded-3xl ">
                               
-                              <div className="h-[350px] md:h-[500px] flex items-center justify-center md:px-5">
-                                          <img
+                            <div className="h-[350px] md:h-[500px] flex items-center justify-center md:px-5">
+                                    <img
                                             
-                                            src="/cameraman.jpg"
-                                            alt="CCTV preview"
-                                            className="h-[300px] w-[300px] md:h-[500px] md:w-[500px] lg:h-[520px] lg:w-[520px] xl:h-[600px] xl:w-[600px] object-cover transition-transform duration-300 scale-120 sm:scale-125 xs:scale-125 lg:scale-125 hover:scale-125 transicao rounded-3xl"
-                                            />
-                              </div>
-                            
-
-                               
+                                        src="/cameraman.jpg"
+                                        alt="CCTV preview"
+                                        className="h-[300px] w-[300px] md:h-[500px] md:w-[500px] lg:h-[520px] lg:w-[520px] xl:h-[600px] xl:w-[600px] object-cover transition-transform duration-300 scale-120 sm:scale-125 xm:scale-125 lg:scale-125 hover:scale-125 transicao rounded-3xl"
+                                    />
+                             </div>
+                             
                         </div>
             </div>
             </ScrollRevealWrapper>
@@ -236,22 +234,13 @@ export default function Servicos() {
             <img
                 src="/network.jpg"
                 alt="Redes preview"
-                className="h-[300px] w-[300px] md:h-[500px] md:w-[500px] lg:h-[520px] lg:w-[520px] xl:h-[600px] xl:w-[600px] object-cover transition-transform duration-300 sm:scale-125 xs:scale-125 scale-120 lg:scale-125 hover:scale-125 transicao rounded-3xl"
+                className="h-[300px] w-[300px] md:h-[500px] md:w-[500px] lg:h-[520px] lg:w-[520px] xl:h-[600px] xl:w-[600px] object-cover transition-transform duration-300 sm:scale-125 xm:scale-125 scale-120 lg:scale-125 hover:scale-125 transicao rounded-3xl"
             />
         </div>
     </div>
 </div>
 </ScrollRevealWrapper>
+        </div>
       </div>
-       
-     
-
-
-
-
-
-
-
-		</div>
 	);
 }
