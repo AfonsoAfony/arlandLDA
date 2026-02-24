@@ -293,7 +293,7 @@ const phares3 = ["Proteção digital e gestão"];
 								className="flex md:hidden lg:hidden xl:hidden  w-full items-center justify-center">
 								<Image
 									
-									src="/man8.png"
+									src="/man4.png"
 									alt="cog-hero-img"
 									width={200}
 									height={200}
@@ -375,7 +375,7 @@ const phares3 = ["Proteção digital e gestão"];
 								<Image
 									id="image_slide3"
 									src="/bg2.png"
-									alt="cog-hero-img"
+									alt="man3:img"
 									width={800}
 									height={400}
 									className="xm:mr-8 sm:mr-12 hide w-[100%] xm:w-full sm:w-full h-auto object-cover"
